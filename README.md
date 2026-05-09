@@ -1,13 +1,18 @@
-# WRO-2026-Future-Engineers-The-Three-Meowsketeers
+# The Three Meowsketeers – WRO Future Engineers 2026
+
+Country: Serbia
+
+School: Bolyai Tehetséggondozó Gimnázium és Kollégium Zenta
 
 ## Team Members
 
 >Coach
-- [Baganj Igor]
+- Baganj Igor
 >Members
-- [Selymesi Arnold] – Electronics and Integration
-- [Balázs Piri Ede] – Software Development
-- [Csőke Olivér] – Mechanical Design
+- Selymesi Arnold – Electronics and Integration
+- Balázs Piri Ede – Software Development
+- Csőke Olivér – Mechanical Design
+
 
 ## Project Overview
 
@@ -17,7 +22,7 @@ As the project progresses, this repository will contain the engineering document
 
 ---
 
-## Robot Idea
+## Navigation Strategy
 
 Our robot is designed to complete a full loop around the competition track while making correct navigation decisions. Because the track does not contain continuous guiding lines, the robot cannot rely on traditional line-following methods.
 
@@ -25,7 +30,7 @@ Instead, our main navigation strategy is based on maintaining a stable distance 
 
 The robot will also use a front-facing color sensor to detect the colored poles placed on the track. When a pole is detected, the robot will decide which direction to turn in order to avoid it and then return to its normal navigation mode.
 
-The robot will use two distance sensors, one color sensor, and two motors in a differential drive configuration. The mechanical design will be slim and lightweight to allow fast and stable movement through the track.
+The robot will use two distance sensors, one color sensor, and rear wheel drive with front wheel steering. The mechanical design will be slim and lightweight to allow fast and stable movement through the track.
 
 ---
 
@@ -58,11 +63,11 @@ Each folder will contain documentation and files related to that subsystem as th
 
 ## Project Status
 
-**Current Stage:** Concept and Planning
+**Current Stage:** Building and Programming
 
 **Next Steps:**
 
-1. Develop the first mechanical design of the robot
-2. Select electronic components and sensors
+1. ~~Develop the first mechanical design of the robot~~
+2. ~~Select electronic components and sensors~~
 3. Design the initial software architecture
 4. Build and test the first prototype
