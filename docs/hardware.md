@@ -33,5 +33,5 @@ https://www.kuongshun-ks.com/uno/robot-smart-car/kuongshun-smart-robot-car-kit-e
 - - Provides mobility and traction for 4WD system
 
 ### Power
-- 1× battery holder (18650/AA)
+- 1× Battery holder (18650/AA)
 - - Supplies power to motors and control electronics
