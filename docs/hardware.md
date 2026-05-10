@@ -27,8 +27,8 @@ https://www.kuongshun-ks.com/uno/robot-smart-car/kuongshun-smart-robot-car-kit-e
 ,Refrence: https://www.mikroprinc.com/sr/proizvod/arduino-senzor-boje-compatible
 
 ### Chassis
-- 3D printed frame
-- - Thinner frame, Improves structural stability, sensor positioning, and cable management
+- Acrylic 4WD robot car chassis
+- - Provides structural stability, accurate sensor positioning, and efficient cable management.
 - 4x Wheels
 - - Provides mobility and traction for 4WD system
 
