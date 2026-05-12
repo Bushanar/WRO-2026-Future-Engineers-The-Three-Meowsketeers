@@ -34,11 +34,12 @@ As the project progresses, this repository will contain the engineering document
 
 ## Project Status
 
-**Current Stage:** Building and Programming
+**Current Stage:** Programming and Testing
 
 **Next Steps:**
 
 1. ~~Develop the first mechanical design of the robot~~
 2. ~~Select electronic components and sensors~~
-3. Design the initial software architecture
-4. Build and test the first prototype
+3. ~~Design the initial software architecture~~
+4. ~~Build and test the first prototype~~
+5. Finish the software architecture
